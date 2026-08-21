@@ -48,6 +48,10 @@ The project answers questions such as:
 
 **Aryan Patil**
 
+📧 Email: your-email@example.com
+🔗 LinkedIn: Your LinkedIn Profile
+💻 GitHub: Your GitHub Profile
+
 📧 Email: aryanpatil925@gmail.com
 🔗 LinkedIn: linkedin.com/in/aryan-patil-585948271
 💻 GitHub: github.com/aryanpatil458
