@@ -48,9 +48,13 @@ The project answers questions such as:
 
 **Aryan Patil**
 
-*📧 Email: aryanpatil925@gmail.com
-*🔗 LinkedIn: linkedin.com/in/aryan-patil-585948271
-*💻 GitHub: github.com/aryanpatil458
+### 📫 Contact & Profiles
+
+| Platform | Link |
+|---|---|
+| 📧 Email | [aryanpatil925@gmail.com](mailto:aryanpatil925@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/aryan-patil-585948271](https://www.linkedin.com/in/aryan-patil-585948271) |
+| 🐙 GitHub | [github.com/aryanpatil458](https://github.com/aryanpatil458) |
 
 Data Analytics | SQL | Power BI | Python
 
